@@ -1,0 +1,34 @@
+.cart-page-div{
+    display: flex;
+    align-items: center;
+    margin:5rem;
+}
+
+.cart-card-div{
+    width: 80%;
+}
+
+.cart-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cart-card > img{
+    width: 20%;
+    height: 10rem;
+}
+
+.cart-button{
+    display: flex;
+}
+
+
+
+aside{
+    margin-left: 2rem;
+}
+
+.delete-button{
+    width: 5rem;
+}
